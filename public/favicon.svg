@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="agrimarket-badge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3fad6e" />
+      <stop offset="100%" stop-color="#0b5e3b" />
+    </linearGradient>
+  </defs>
+  <path d="M32,6 Q53,31 58,56 Q32,64 6,56 Q11,31 32,6 Z" fill="url(#agrimarket-badge)" />
+  <path d="M14,52 Q32,47 50,52" stroke="#6b4f3b" stroke-width="2.2" fill="none" stroke-linecap="round" opacity="0.85" />
+  <path d="M16,56 Q32,52 48,56" stroke="#543d2d" stroke-width="2.2" fill="none" stroke-linecap="round" opacity="0.7" />
+  <g fill="#f5f7fa">
+    <rect x="19" y="33" width="9" height="7" rx="1.5" />
+    <rect x="19" y="39" width="19" height="5" rx="1.5" />
+  </g>
+  <circle cx="25" cy="47" r="6.5" fill="#0b5e3b" stroke="#f5f7fa" stroke-width="2" />
+  <circle cx="39" cy="48" r="4" fill="#0b5e3b" stroke="#f5f7fa" stroke-width="2" />
+  <path d="M32,10 C36,12 36,17 32,19 C28,17 28,12 32,10 Z" fill="#9fddb7" />
+  <g transform="translate(44,44)">
+    <path d="M0,0 L10,0 L8.5,6.5 L2,6.5 Z" fill="#ff8a00" />
+    <circle cx="3" cy="9" r="1.4" fill="#ff8a00" />
+    <circle cx="7.5" cy="9" r="1.4" fill="#ff8a00" />
+  </g>
+</svg>
